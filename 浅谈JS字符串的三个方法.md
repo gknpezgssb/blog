@@ -1,7 +1,7 @@
 每次遇到某个类型陌生的方法的时候，我通常会思考这样几个问题：
 * 该方法需要的传入参数:
     1. 不需要传参数的：诸如Array的pop方法；
-    2. 需要传参数，能传几个？例如[前文所诉的parseInt方法](https://segmentfault.com/a/1190000005956935);
+    2. 需要传参数，能传几个？例如[前文所诉的parseInt方法](https://github.com/gknpezgssb/blog/blob/master/一道JS试题引发的思考.md);
     3. 可以不传？String的parseInt确实可以不传，但是没什么实际意义，会返回NaN；
     4. 但是某些方法如Number的toString方法，可接受一个参数即进制数，不传则按十进制解析。
 * 该方法会改变调用该方法的对象？有返回值？
