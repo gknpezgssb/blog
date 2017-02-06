@@ -1,4 +1,3 @@
-# blog
 ## 2017之前 
 ### 翻译 
 - [Git系列之远程相关命令](https://github.com/gknpezgssb/blog/issues/5) 
