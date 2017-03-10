@@ -1,9 +1,13 @@
 ## 2017年2月
+
 ### 程序🐒的数学
 - [程序🐒的数学：几何角度理解矩阵](https://github.com/gknpezgssb/blog/issues/6)
+
 ### JavaScript
 - [用高阶函数实现地址的延迟搜索](https://github.com/gknpezgssb/blog/issues/8)
+
 ## 2017之前 
+
 ### 翻译 
 - [Git系列之远程相关命令](https://github.com/gknpezgssb/blog/issues/5) 
 - [Git系列之git log 高级命令](https://github.com/gknpezgssb/blog/issues/4) 
