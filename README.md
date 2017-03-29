@@ -8,7 +8,7 @@
 
 ### WebGL
 - [我的世界：一个村落（其一）](https://github.com/gknpezgssb/blog/issues/9)
-
+- [我的世界：一个村落（其二）](https://github.com/gknpezgssb/blog/issues/10)
 ## 2017之前 
 
 ### 翻译 
