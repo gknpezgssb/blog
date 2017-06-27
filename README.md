@@ -4,7 +4,7 @@
 - [程序🐒的数学：几何角度理解矩阵](https://github.com/gknpezgssb/blog/issues/6)
 
 ### React
-- [译:展示组件（Presentational Components)与容器组件(Container Components)](https://github.com/gknpezgssb/blog/issues/12)
+- [译:展示组件(Presentational Components)与容器组件(Container Components)](https://github.com/gknpezgssb/blog/issues/12)
 
 ### JavaScript
 - [用高阶函数实现地址的延迟搜索](https://github.com/gknpezgssb/blog/issues/8)
